@@ -1,0 +1,27 @@
+{
+  "name": "@babel/plugin-rm-iife",
+  "version": "1.0.0",
+  "description": "Babel plugin to remove code with iife.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayFate/babel-plugin-rm-iife.git"
+  },
+  "keywords": [
+    "babel-plugin",
+    "iife",
+    "remove"
+  ],
+  "author": "JayFate <37610029@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JayFate/babel-plugin-rm-iife/issues"
+  },
+  "homepage": "https://github.com/JayFate/babel-plugin-rm-iife#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
