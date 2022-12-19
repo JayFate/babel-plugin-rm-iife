@@ -1,5 +1,5 @@
 {
-  "name": "@babel/plugin-rm-iife",
+  "name": "babel-plugin-rm-iife",
   "version": "1.0.0",
   "description": "Babel plugin to remove code with iife.",
   "main": "index.js",

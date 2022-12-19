@@ -1,14 +1,14 @@
-# @babel/plugin-rm-iife [![Build Status](https://travis-ci.org/JayFate/@babel/plugin-rm-iife.svg?branch=master)](https://travis-ci.org/JayFate/@babel/plugin-rm-iife)
+# babel-plugin-rm-iife [![Build Status](https://travis-ci.org/JayFate/babel-plugin-rm-iife.svg?branch=master)](https://travis-ci.org/JayFate/babel-plugin-rm-iife)
 
 > Wrap file with iife.
 
 
 ## Install
 
-With [npm](https://npmjs.org/package/@babel/plugin-rm-iife) do:
+With [npm](https://npmjs.org/package/babel-plugin-rm-iife) do:
 ****
 ```bash
-npm i @babel/plugin-rm-iife --D
+npm i babel-plugin-rm-iife --D
 ```
 
 
@@ -35,7 +35,7 @@ In your Babel configuration:
 
 ```json
 {
-  "plugins": ["@babel/plugin-rm-iife"]
+  "plugins": ["babel-plugin-rm-iife"]
 }
 ```
 
